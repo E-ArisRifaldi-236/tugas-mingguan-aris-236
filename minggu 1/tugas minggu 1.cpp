@@ -1,4 +1,5 @@
 // nama : aris rifaldi
+// nim : 2100018236
 
 
 #include <iostream>
